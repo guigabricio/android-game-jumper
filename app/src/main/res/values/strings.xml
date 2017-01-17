@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jumper</string>
+    <string name="title_activity_menu_principal">MenuPrincipalActivity</string>
+</resources>
